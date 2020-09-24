@@ -1,3 +1,4 @@
+// @ts-ignore
 import * as Blessed from 'blessed'
 export = BlessedContrib
 declare namespace BlessedContrib {
