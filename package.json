@@ -7,7 +7,7 @@
   "scripts": {
     "test": "npm run lint",
     "lint": "eslint lib",
-    "lint:fix": "eslint lib --fix"
+    "lint.fix": "eslint lib --fix"
   },
   "repository": {
     "type": "git",
